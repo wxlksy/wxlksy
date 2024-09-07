@@ -5,7 +5,7 @@ My work style is collaborative, and I thrive in team environments.
 
 I'm constantly seeking out new ways to improve my skills and knowledge,
 and I'm always excited about taking on new challenges.
-When faced with complex problems, I'm resourceful and proactive in finding solutions.
+
 I believe that communication is essential to success,
 and I strive to build strong relationships with my colleagues.
 Ultimately, my goal is to create software
@@ -25,7 +25,6 @@ that is both functional and elegant, making a positive impact on the world.
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-![JUnit5](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![Bukkit](https://img.shields.io/badge/Bukkit-E34F26?style=for-the-badge)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
