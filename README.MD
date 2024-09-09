@@ -1,15 +1,10 @@
 # About me
 
-I'm a Java/Kotlin developer who loves to build high-quality, well-designed software products.
-My work style is collaborative, and I thrive in team environments.
+I am a Java/Kotlin developer who loves to create high-quality software products. My work style is collaborative. 
 
-I'm constantly seeking out new ways to improve my skills and knowledge,
-and I'm always excited about taking on new challenges.
+I am constantly learning and improving my skills and always up for new and interesting challenges. 
 
-I believe that communication is essential to success,
-and I strive to build strong relationships with my colleagues.
-Ultimately, my goal is to create software
-that is both functional and elegant, making a positive impact on the world.
+I believe that communication is essential to success, and I strive to build strong relationships with my colleagues myself. In a traditional sense, my goal is to create software that is both functional and colorful!
 
 # My stack
 
